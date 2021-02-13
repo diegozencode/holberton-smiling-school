@@ -28,6 +28,10 @@ body {
   background-position: center;
 }
 
+.baground-primary {
+    background-color: var(--color-primary);
+}
+
 .btn-primary {
   background-color: var(--color-primary);
   border-color: var(--color-primary);
@@ -62,4 +66,14 @@ body {
   .display-1 {
     font-size: 4rem;
   }
+}
+
+.carousel-control-prev-icon {
+    height: 50px;
+    background-image: url(./images/arrow_white_left.png);
+}
+
+.carousel-control-next-icon {
+    height: 50px;
+    background-image: url(./images/arrow_white_right.png);
 }
