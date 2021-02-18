@@ -77,3 +77,13 @@ body {
     height: 50px;
     background-image: url(./images/arrow_white_right.png);
 }
+
+#carouselControls .carousel-control-prev-icon {
+  height: 50px;
+  background-image: url(/images/arrow_black_left.png);
+}
+
+#carouselControls .carousel-control-next-icon {
+  height: 50px;
+  background-image: url(./images/arrow_black_right.png);
+}
