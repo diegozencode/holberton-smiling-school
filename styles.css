@@ -11,6 +11,7 @@
   --color-dark-grey: #353535;
 
   --font-family: "Source Sans Pro", sans-serif;
+  --font-family-secondary: 'Coiny', cursive;
 }
 
 body {
@@ -32,6 +33,14 @@ body {
   background-image: url(./images/pic_2.jpg);
   background-size: cover;
   background-position: center;
+}
+
+.courses{
+  min-height: 0;
+  background-image: url(./images/pic_3.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: var(--font-family-secondary);
 }
 
 .background-primary {
