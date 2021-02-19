@@ -29,7 +29,7 @@ body {
 }
 
 .background-primary {
-    background-color: var(--color-primary);
+  background-color: var(--color-primary);
 }
 
 .background-secondary {
@@ -73,21 +73,23 @@ body {
 }
 
 .carousel-control-prev-icon {
-    height: 50px;
-    background-image: url(./images/arrow_white_left.png);
+  height: 50px;
+  background-image: url(./images/arrow_white_left.png);
 }
 
 .carousel-control-next-icon {
-    height: 50px;
-    background-image: url(./images/arrow_white_right.png);
+  height: 50px;
+  background-image: url(./images/arrow_white_right.png);
 }
 
-#carouselControls .carousel-control-prev-icon {
+#carouselControls .carousel-control-prev-icon,
+#carouselControlVideo .carousel-control-prev-icon {
   height: 50px;
   background-image: url(/images/arrow_black_left.png);
 }
 
-#carouselControls .carousel-control-next-icon {
+#carouselControls .carousel-control-next-icon,
+#carouselControlVideo .carousel-control-next-icon {
   height: 50px;
   background-image: url(./images/arrow_black_right.png);
 }
