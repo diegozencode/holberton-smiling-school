@@ -28,8 +28,12 @@ body {
   background-position: center;
 }
 
-.baground-primary {
+.background-primary {
     background-color: var(--color-primary);
+}
+
+.background-secondary {
+  background-color: var(--color-secondary);
 }
 
 .btn-primary {
