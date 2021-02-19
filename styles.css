@@ -28,6 +28,12 @@ body {
   background-position: center;
 }
 
+.pricing{
+  background-image: url(./images/pic_2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
 .background-primary {
   background-color: var(--color-primary);
 }
@@ -92,4 +98,9 @@ body {
 #carouselControlVideo .carousel-control-next-icon {
   height: 50px;
   background-image: url(./images/arrow_black_right.png);
+}
+
+.navbar-nav .active {
+  border-bottom: 1px solid var(--color-white);
+  color: var(--color-primary);
 }
