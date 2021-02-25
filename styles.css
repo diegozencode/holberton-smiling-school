@@ -30,6 +30,7 @@ body {
 }
 
 .pricing{
+  min-height: 0;
   background-image: url(./images/pic_2.jpg);
   background-size: cover;
   background-position: center;
