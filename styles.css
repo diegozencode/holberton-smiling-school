@@ -101,7 +101,7 @@ body {
 #carouselControls .carousel-control-prev-icon,
 #carouselControlVideo .carousel-control-prev-icon {
   height: 50px;
-  background-image: url(/images/arrow_black_left.png);
+  background-image: url(./images/arrow_black_left.png);
 }
 
 #carouselControls .carousel-control-next-icon,
