@@ -28,7 +28,7 @@ The objective is simple: Have a fully functional web page that looks the same as
 
 ---
 
-## Project Notes:books:
+## Project Notes
 
 - Be familiar with Figma.
 - Use Bootstrap classes.
