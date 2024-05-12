@@ -42,4 +42,4 @@ The objective is simple: Have a fully functional web page that looks the same as
 
 - **Diego Monroy** (@diegozencode) - [<img src="https://img.shields.io/badge/-@diegozencode-000000?style=flat&logo=X&logoColor=white" alt="Twitter - @diegozencode" />](https://twitter.com/diegozencode) |
   [<img src="https://img.shields.io/badge/-@diegozencode-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn - Diego Felipe Monroy" />](https://www.linkedin.com/in/diegozencode/) |
-  [<img src="https://img.shields.io/badge/-diegozencode.com-4EAA25?style=flat&logo=Paperswithcode&logoColor=white" alt="Personal Website - diegozencode.com"/>](https://portfolio.diegozencode.com/)
+  [<img src="https://img.shields.io/badge/-diegozencode.com-4EAA25?style=flat&logo=Paperswithcode&logoColor=white" alt="Personal Website - diegozencode.com"/>](https://diegozencode.com/)
